@@ -1,0 +1,129 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "data": [
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "data": [
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "data": [
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "data": [
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "data": [
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                },
+                {
+                    "date": "2023-03-02",
+                    "time": "8:00 am",
+                    "transaction": 100
+                }
+            ]
+        }
+    ]
+}
