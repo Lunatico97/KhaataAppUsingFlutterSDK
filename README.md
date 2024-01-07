@@ -1,6 +1,7 @@
+
 # Khaata - Bills, Borrowals & Business !
 
-A cross-platform transaction storage and biller app with social features such as themes, profiles, notifications, friends and message requests !
+A cross-platform transaction storage and biller app with social features such as themes, profiles, notifications, friends and message requests ! 
 Powered by Firebase & Flutter SDK !
 
 ## Getting Started

@@ -1,5 +1,6 @@
-name: khaata_app
-description: A new Flutter project.
+name: khaata_app 
+description: Khaata - Bills, Borrowals & Business !
+
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -32,7 +33,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -40,17 +40,50 @@ dependencies:
   velocity_x: ^3.6.0
   provider: ^6.0.0
   pie_chart: ^5.3.2
+  shared_preferences: ^2.0.18
+  connectivity_plus: ^3.0.3
+
+  #dependency for splash screen
+  flutter_native_splash: ^2.2.18
+
+  # Firebase dependencies -------------- (Here's where Diwas started !)---------------------
+  firebase_core: ^2.7.0
+  firebase_auth: ^4.2.9
+  cloud_firestore: ^4.4.3
+  pinput: ^2.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_launcher_icons: ^0.12.0
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+
+#splash screen config
+flutter_native_splash:
+  color: '#f7f7f7'
+  color_dark: '272727'
+  image: assets/images/khaata-logo.png
+  image_dark: assets/images/khaata-logo.png
+  
+  android_12:
+    icon_background_color: '#f7f6f1'
+    icon_background_color_dark: '272727'
+    image: assets/images/khaata-logo.png
+    image_dark: assets/images/khaata-logo.png
+
+
+#app icon config
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: assets/images/khaata-icon.png
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -66,6 +99,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/data/
+    - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
